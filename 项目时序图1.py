@@ -33,7 +33,7 @@ tasks = [
     {"Task": "老xx端APP转让成功", "Start": "2025-02-07", "End": "2025-02-08", "Category": "iOS老APP转让", "Milestone": True},
     
     # iOS APP改名称和icon
-    {"Task": "emobilty改名Lagride", "Start": "2025-02-27", "End": "2025-03-03", "Category": "iOS APP改名称和icon", "Milestone":True},
+    {"Task": "xx改名xxx", "Start": "2025-02-27", "End": "2025-03-03", "Category": "iOS APP改名称和icon", "Milestone":True},
     {"Task": "xx 改名 xxx", "Start": "2025-02-26", "End": "2025-02-27", "Category": "iOS APP改名称和icon", "Milestone": True},
    
 ]
